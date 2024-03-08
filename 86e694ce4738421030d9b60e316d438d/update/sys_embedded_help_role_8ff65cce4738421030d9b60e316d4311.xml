@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_1331428_red_cana.admin" name="x_1331428_red_cana.admin">47f65cce4738421030d9b60e316d4310</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-08 18:03:03</sys_created_on>
+        <sys_id>8ff65cce4738421030d9b60e316d4311</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>47f65cce4738421030d9b60e316d4310</sys_name>
+        <sys_package display_value="Red Canary" source="x_1331428_red_cana">86e694ce4738421030d9b60e316d438d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Red Canary">86e694ce4738421030d9b60e316d438d</sys_scope>
+        <sys_update_name>sys_embedded_help_role_8ff65cce4738421030d9b60e316d4311</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-08 18:03:03</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
